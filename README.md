@@ -1,7 +1,11 @@
-# Demo
+         ___        ______     ____ _                 _  ___  
+        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
+       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
+      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
+     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
+ ----------------------------------------------------------------- 
 
-aws s3 sync --acl public-read --sse --delete static-demo/ s3://www.awscloud9demo.com
 
-# Site
+Hi there! Welcome to AWS Cloud9!
 
-http://www.awscloud9demo.com.s3-eu-west-1.amazonaws.com/index.html
+This is a repo for Cloud9 Demo
